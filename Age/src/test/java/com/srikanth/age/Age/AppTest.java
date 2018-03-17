@@ -7,7 +7,7 @@ import junit.framework.TestSuite;
 /**
  * Unit test for simple App.
  */
-public class AppTest11 
+public class AppTest112222
     extends TestCase
 
 {// in local changesssssssssssssssssssssssssssssssssssss
